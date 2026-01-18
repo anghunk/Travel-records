@@ -1,0 +1,61 @@
+[
+  {
+    "name": "杭州",
+    "lng": 120.1667,
+    "lat": 30.25,
+    "detail": {
+      "description": "",
+      "images": []
+    }
+  },
+  {
+    "name": "苏州",
+    "lng": 120.5954,
+    "lat": 31.3041,
+    "detail": {
+      "description": "2026.1.2 元旦小长假去苏州玩了一圈",
+      "images": [
+        "https://imgurl.zishu.me/2026/01/20260104103056247.webp",
+        "https://imgurl.zishu.me/2026/01/20260104103056250.webp",
+        "https://imgurl.zishu.me/2026/01/20260104103056247.webp",
+        "https://imgurl.zishu.me/2026/01/20260104103056250.webp"
+      ]
+    }
+  },
+  {
+    "name": "上海",
+    "lng": 121.4692,
+    "lat": 31.2244,
+    "detail": {
+      "description": "",
+      "images": []
+    }
+  },
+  {
+    "name": "宁波",
+    "lng": 121.5440,
+    "lat": 29.8683,
+    "detail": {
+      "description": "",
+      "images": []
+    }
+  },
+  {
+    "name": "南京",
+    "lng": 118.7778,
+    "lat": 32.0617,
+    "detail": {
+      "description": "",
+      "images": []
+    }
+  },
+  {
+    "name": "重庆",
+    "lng": 106.55,
+    "lat": 29.56,
+    "detail": {
+      "description": "",
+      "images": []
+    }
+  }
+]
