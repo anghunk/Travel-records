@@ -1,6 +1,6 @@
-## Travel records · 中国地图旅行记录
+## Travel records · 地图旅行记录
 
-一个用红旗标记城市的中国地图小应用，用来记录个人旅行足迹。
+一个可以标记城市的地图小应用，用来记录个人旅行足迹。
 
 网站：https://travel.zishu.me
 
