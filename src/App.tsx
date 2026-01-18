@@ -31,7 +31,7 @@ function App() {
 				<div className='min-h-screen w-full bg-background flex items-center justify-center p-3 sm:p-4'>
 					<Card className='w-full max-w-full sm:max-w-[1300px]'>
 						<CardHeader className='flex flex-col sm:flex-row sm:items-center sm:justify-between space-y-2 sm:space-y-0 pb-4 gap-2'>
-							<CardTitle className='text-2xl font-normal'>旅游城市</CardTitle>
+							<CardTitle className='text-2xl font-normal'>地图旅行记录</CardTitle>
 							<div className='flex flex-wrap items-center gap-2 sm:gap-3'>
 								<div className='inline-flex flex-wrap rounded-md border bg-muted p-0.5'>
 									<Button
