@@ -4,7 +4,7 @@
 
 网站：https://travel.zishu.me
 
-![travel](https://github.com/user-attachments/assets/d21d8166-dd7c-4439-9592-3de42b3ea65d)
+![travel](https://github.com/user-attachments/assets/61a20987-e98c-46ea-abc0-8fa7159d0839)
 
 ### 功能
 
