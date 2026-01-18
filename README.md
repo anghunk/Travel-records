@@ -4,6 +4,8 @@
 
 网站：https://travel.zishu.me
 
+![travel](https://github.com/user-attachments/assets/d21d8166-dd7c-4439-9592-3de42b3ea65d)
+
 ### 功能
 
 - 交互式中国地图，点击红旗查看城市详情弹窗  
@@ -20,14 +22,14 @@
 ### 本地运行
 
 ```bash
-pnpm install   # 或 npm install / yarn
-pnpm dev       # 本地开发
+npm install
+npm run dev       # 本地开发
 ```
 
 ### 构建与其他脚本
 
 ```bash
-pnpm build     # 构建产物
-pnpm preview   # 预览构建结果
-pnpm lint      # 代码检查
+npm run build     # 构建产物
+npm run preview   # 预览构建结果
+npm run lint      # 代码检查
 ```
